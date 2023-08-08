@@ -9,4 +9,7 @@ Among the various models of deep learning, Convolutional Neural Network (CNN) st
 ## Objectives
 There are two major objectives of this project:
 1. To identify Land Cover using the U-Net architecture​ of CNN.
-2. To assess the performance of U-Net model with and without data augmentation.
+2. To assess the performance of the U-Net model with and without data augmentation.
+
+## Data and Pre-processing
+Pleiades Imagery (0.5 m) of Hinton Canada is used for this DL project which is then subset to five patches. Four pixel-sized subset picture patches (605 x 605) are used for training, whereas one patch of the same size is utilized for testing. To train the model, LC classes are manually digitized in the ArcMap environment, which serves as a mask layer, and converted to a raster format. After producing the mask layers for these five subset images, the masks and images have been further divided into small patches of pixel size (256 × 256).
