@@ -13,3 +13,6 @@ There are two major objectives of this project:
 
 ## Data and Pre-processing
 Pleiades Imagery (0.5 m) of Hinton Canada is used for this DL project which is then subset to five patches. Four subset images with a size of 605 x 605 pixels are used for training, whereas one subset image is utilized for testing. To train the model, LC classes are manually digitized in the ArcMap environment, which serves as a mask layer, and converted to a raster format. After producing the mask layers for these five subset images, the masks and images have been further divided into small patches of pixel size 256 × 256 using the Geotile library in the Python environment.
+
+# Workflow
+![image](https://github.com/Abranidrees/Land-Cover-Classification-from-VHRSI-using-DL/assets/126249551/99dffb67-8908-4aa9-8287-b2a8523ad390)
