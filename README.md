@@ -28,11 +28,11 @@ Fig 1 shows the results of the land cover classification from the U-Net architec
 
 
 # Authors
-1. Abran Idrees : He earned a bachelor's degree in Space Science from the university of the Punjab, Lahore, Pakistan and now he is pursuing a master's degree in Geospatial Technologies at NOVA IMS, Universidade NOVA de Lisboa, Portugal.
+1. Abran Idrees: He earned a bachelor's degree in Space Science from the University of the Punjab, Lahore, Pakistan and now he is pursuing an Erasmus Mundus Joint Master Degree (EMJMD) program in Geospatial Technologies from NOVA IMS, Universidade NOVA de Lisboa, Portugal; Westfälische Wilhelms-Universität Münster (WWU), Institute for Geoinformatics (ifgi), Münster, Germany; and Universitat Jaume I (UJI), Castellón, Dept. Lenguajes y Sistemas Informaticos (LSI), Castellón, Spain.
 
-2. Roquia Salam :
+2. Roquia Salam: She has both bachelor's and master's degrees in Disaster Management from Begum Rokeya University, Rangpur, Bangladesh. Currently, she is pursuing her second master's degree in Geospatial Technologies (EMJMD) from NOVA IMS, Universidade NOVA de Lisboa, Portugal; Westfälische Wilhelms-Universität Münster (WWU), Institute for Geoinformatics (ifgi), Münster, Germany; and Universitat Jaume I (UJI), Castellón, Dept. Lenguajes y Sistemas Informaticos (LSI), Castellón, Spain. 
 
-3. Lukumon Olaitan Lateef : He holds a bachelor’s degree in surveying and geoinformatics from the Federal University of Technology, Akure in Nigeria and now he is also pursuing a master's degree in Geospatial Technologies at NOVA IMS, Universidade NOVA de Lisboa, Portugal.
+3. Lukumon Olaitan Lateef: He holds a bachelor’s degree in surveying and geoinformatics from the Federal University of Technology, Akure in Nigeria and now he is also pursuing an EMJMD in Geospatial Technologies from NOVA IMS, Universidade NOVA de Lisboa, Portugal; Westfälische Wilhelms-Universität Münster (WWU), Institute for Geoinformatics (ifgi), Münster, Germany; and Universitat Jaume I (UJI), Castellón, Dept. Lenguajes y Sistemas Informaticos (LSI), Castellón, Spain.
 
 # References
 1. Zhang, L.; Zhang, L.; Kumar, V. "Deep Learning for Remote Sensing Data: A Technical Tutorial on the State of the Art," in IEEE Geoscience and Remote Sensing Magazine, vol. 4, no. 2, pp. 22-40, June 2016, doi: 10.1109/MGRS.2016.2540798.
