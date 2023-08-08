@@ -22,3 +22,23 @@ Fig 1 shows the results of the land cover classification from the U-Net architec
 
 ![Output1](https://github.com/Abranidrees/Land-Cover-Classification-from-VHRSI-using-DL/assets/126249551/1b1f80bb-a3a9-4a17-a305-27a68890bd72)
 ![Output2](https://github.com/Abranidrees/Land-Cover-Classification-from-VHRSI-using-DL/assets/126249551/b45770db-a2f9-4758-84c5-00db90856a55)
+
+# Limitations
+
+
+
+# Authors
+1. Abran Idrees : He earned a bachelor's degree in Space Science from the university of the Punjab, Lahore, Pakistan and now he is pursuing a master's degree in Geospatial Technologies at NOVA IMS, Universidade NOVA de Lisboa, Portugal.
+
+2. Roquia Salam :
+
+3. Lukumon Olaitan Lateef : He holds a bachelor’s degree in surveying and geoinformatics from the Federal University of Technology, Akure in Nigeria and now he is also pursuing a master's degree in Geospatial Technologies at NOVA IMS, Universidade NOVA de Lisboa, Portugal.
+
+# References
+1. Zhang, L.; Zhang, L.; Kumar, V. "Deep Learning for Remote Sensing Data: A Technical Tutorial on the State of the Art," in IEEE Geoscience and Remote Sensing Magazine, vol. 4, no. 2, pp. 22-40, June 2016, doi: 10.1109/MGRS.2016.2540798.
+2. Zhao, Z.; Zheng, P.; Xu, S.; Wu, X. "Object Detection with Deep Learning: A Review," in IEEE Transactions on Neural Networks and Learning Systems, vol. 30, no. 11, pp. 3212-3232, Nov. 2019, doi: 10.1109/TNNLS.2018.2876865.
+
+
+
+
+
