@@ -1,0 +1,1 @@
+There are two Jupyter Notebooks are uploaded here. One (Land cover classification using data augmentation) is used for classifying land cover by applying the data augmentation techniques. The rest (Land cover classification without data augmentation) is used for the same purpose without applying the augmentation techniques.
