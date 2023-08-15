@@ -24,7 +24,7 @@ Fig 1 shows the results of the land cover classification from the U-Net architec
 ![Output2](https://github.com/Abranidrees/Land-Cover-Classification-from-VHRSI-using-DL/assets/126249551/b45770db-a2f9-4758-84c5-00db90856a55)
 
 # Limitations
-
+The CNN gives a better result using the original and augmented images together. However, it is important to state that the limited training and test data we used affected the results. Also, the similarity between the spectral properties of the needle leaf and the broad leaf makes it challenging for the CNN algorithm to differentiate them. Using more training and testing data could solve this by providing the model with more information as the strength of deep learning lies on the amount of data.
 
 
 # Authors
@@ -32,7 +32,7 @@ Fig 1 shows the results of the land cover classification from the U-Net architec
 
 2. Roquia Salam: She has both bachelor's and master's degrees in Disaster Management from Begum Rokeya University, Rangpur, Bangladesh. Currently, she is pursuing her second master's degree in Geospatial Technologies (EMJMD) from NOVA IMS, Universidade NOVA de Lisboa, Portugal; Westfälische Wilhelms-Universität Münster (WWU), Institute for Geoinformatics (ifgi), Münster, Germany; and Universitat Jaume I (UJI), Castellón, Dept. Lenguajes y Sistemas Informaticos (LSI), Castellón, Spain. 
 
-3. Lukumon Olaitan Lateef: He holds a bachelor’s degree in surveying and geoinformatics from the Federal University of Technology, Akure in Nigeria and now he is also pursuing an EMJMD in Geospatial Technologies from NOVA IMS, Universidade NOVA de Lisboa, Portugal; Westfälische Wilhelms-Universität Münster (WWU), Institute for Geoinformatics (ifgi), Münster, Germany; and Universitat Jaume I (UJI), Castellón, Dept. Lenguajes y Sistemas Informaticos (LSI), Castellón, Spain.
+3. Lukumon Olaitan Lateef: He holds a bachelor’s degree in surveying and geoinformatics from the Federal University of Technology, Akure in Nigeria and now he is also pursuing an Erasmus Mundus Joint Master Degree (EMJMD) in Geospatial Technologies from NOVA IMS, Universidade NOVA de Lisboa, Portugal; Westfälische Wilhelms-Universität Münster (WWU), Institute for Geoinformatics (ifgi), Münster, Germany; and Universitat Jaume I (UJI), Castellón, Dept. Lenguajes y Sistemas Informaticos (LSI), Castellón, Spain.
 
 # References
 1. Zhang, L.; Zhang, L.; Kumar, V. "Deep Learning for Remote Sensing Data: A Technical Tutorial on the State of the Art," in IEEE Geoscience and Remote Sensing Magazine, vol. 4, no. 2, pp. 22-40, June 2016, doi: 10.1109/MGRS.2016.2540798.
